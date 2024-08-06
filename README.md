@@ -1,4 +1,4 @@
-# Micro-SaaS Data Collection
+# Micro-SaaS Parfume4Men
 
 Welcome to the documentation of "Micro-SaaS Perfumes", project focused on [complete].
 
